@@ -2,8 +2,19 @@ Module 10 Assignment: create a basic Next.js starter project and provide a detai
 
 Assignment submit by md. Rasel Rana
 
-Introduction: Welcome to the my "nextjs-starter-project," an adaptable and meticulously structured Next.js starter project tailored to kickstart the web development journey. Leveraging the prowess of JavaScript, this project equips with indispensable tools and configurations for crafting efficient and contemporary web applications. Whether an experienced developer or a novice taking first steps, this starter project lays the foundation for a seamless and enriching development experience.
-Description: Within this Next.js starter project, we will discover a meticulously organized folder architecture and an assortment of essential files that constitute the backbone of your application. Let's go to deeper into what's encompassed:
+Introduction: Welcome to the my "nextjs-starter-project," an adaptable and meticulously structured Next.js starter project tailored to kickstart the web development journey. Leveraging the prowess of JavaScript, this project equips with indispensable 
+tools and configurations for crafting efficient and contemporary web applications. Whether an experienced developer or a novice taking first steps, this starter project lays the foundation for a seamless and enriching development experience.
+Description: Within this Next.js starter project, we will discover a meticulously organized folder architecture and an assortment of essential files that constitute the backbone of your application. 
+Let's take a closer look at the core features and components that make up this project:
+
+Project Name: nextjs-starter-project
+Language: JavaScript
+ESLint: Enabled for maintaining code quality and adherence to coding standards.
+Tailwind CSS: Integrated for streamlined and responsive styling.
+src/ Directory: Utilized to enhance code organization and maintainability.
+App Router: Included to enable smooth and intuitive navigation within the application.
+Custom Import Alias: Not customized, following default import alias configurations.
+
 
 Top-Level Folders:
 1.	.next: This folder, automatically generated, houses the pivotal build artifacts essential for both server-side and client-side rendering. It ensures optimized performance and consistent rendering across diverse environments.
