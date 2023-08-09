@@ -17,34 +17,34 @@ Custom Import Alias: Not customized, following default import alias configuratio
 
 
 Top-Level Folders:
-1.	.next: This folder, automatically generated, houses the pivotal build artifacts essential for both server-side and client-side rendering. It ensures optimized performance and consistent rendering across diverse environments.
-2.	node_modules: Within this repository reside the dependencies fueling your project, efficiently managed by npm.
-3.	public: This directory accommodates static assets, such as images and fonts, directly served by the server, contributing to a seamless and captivating user experience.
-4.	src: An optional enclave dedicated to your application's source code. If utilized, it comprises an "app" folder harboring imperative layout and page files. These files define the structure and content manifested when users traverse your application's root.
-5.	app: app folder is the main folder of the project files. 
+1. .next: This folder, automatically generated, houses the pivotal build artifacts essential for both server-side and client-side rendering. It ensures optimized performance and consistent rendering across diverse environments.
+2. node_modules: Within this repository reside the dependencies fueling your project, efficiently managed by npm.
+3. public: This directory accommodates static assets, such as images and fonts, directly served by the server, contributing to a seamless and captivating user experience.
+4. src: An optional enclave dedicated to your application's source code. If utilized, it comprises an "app" folder harboring imperative layout and page files. These files define the structure and content manifested when users traverse your application's root.
+5. app: app folder is the main folder of the project files. 
 
 Top-Level Files:
-1.	.eslintrc.json: Elevate the caliber of your code and its consistency with eslint, a vigilant guardian that upholds coding standards and identifies potential errors within your codebase.
-2.	.gitignore: By designating which files and directories should be omitted from version control, this file streamlines collaboration and project management, fostering an agile development process.
-3.	jsconfig.json: Harness the potential of JavaScript and TypeScript compiler options, empowering the utilization of absolute import paths for enriched code organization and enhanced legibility.
-4.	next.config.js: Tailor your Next.js build process and wield authority over webpack settings through this configuration file, adapting the project to your unique requisites.
-5.	package-lock.json: Crafted by npm, this file guarantees that your dependencies are securely tethered to specific versions, ensuring unwavering uniformity across myriad installations.
-6.	package.json: This pivotal file encapsulates metadata pertaining to your project, comprising dependencies and scripts that orchestrate diverse tasks and dependencies management.
-7.	postcss.config.js: Command the aesthetics and performance of your project's CSS via PostCSS. Detail plugins and options that enrich your application's visual allure and dynamism.
-8.	README.md: An extensive dossier serving as a compass, guiding you through the setup and exploitation of this starter project. It proffers invaluable insights for a triumphant odyssey in development.
-9.	tailwind.config.js: Mold and refine the Tailwind CSS framework to harmonize with your unique styling and design predilections.
+1. .eslintrc.json: Elevate the caliber of your code and its consistency with eslint, a vigilant guardian that upholds coding standards and identifies potential errors within your codebase.
+2. .gitignore: By designating which files and directories should be omitted from version control, this file streamlines collaboration and project management, fostering an agile development process.
+3. jsconfig.json: Harness the potential of JavaScript and TypeScript compiler options, empowering the utilization of absolute import paths for enriched code organization and enhanced legibility.
+4. next.config.js: Tailor your Next.js build process and wield authority over webpack settings through this configuration file, adapting the project to your unique requisites.
+5. package-lock.json: Crafted by npm, this file guarantees that your dependencies are securely tethered to specific versions, ensuring unwavering uniformity across myriad installations.
+6. package.json: This pivotal file encapsulates metadata pertaining to your project, comprising dependencies and scripts that orchestrate diverse tasks and dependencies management.
+7. postcss.config.js: Command the aesthetics and performance of your project's CSS via PostCSS. Detail plugins and options that enrich your application's visual allure and dynamism.
+8. README.md: An extensive dossier serving as a compass, guiding you through the setup and exploitation of this starter project. It proffers invaluable insights for a triumphant odyssey in development.
+9. tailwind.config.js: Mold and refine the Tailwind CSS framework to harmonize with your unique styling and design predilections.
 
 Routing Files Overview:
-1.	layout.js (.jsx, .tsx): A cornerstone of structural integrity, the layout file envelops multiple pages, furnishing them with uniform styling and structure. It bolsters a seamless visual identity and user experience, augmenting brand consistency and navigational intuition.
-2.	page.js (.jsx, .tsx): These beacons of specificity map dedicated routes to user interfaces, orchestrating a symphony of access to distinct content and functionalities. Pages spearhead user interaction, serving as prime conduits for conveying application essence.
-3.	global.css: The global.css file the store this style which applied for entire the all projects. 
-4.	loading.js (.jsx, .tsx): Viatalizing the user experience during data acquisition, loading UI components extend a soothing cadence. They materialize as content unfurls, granting visual cues that assuage latency-related disquietude.
-5.	not-found.js (.jsx, .tsx): Should users tread upon non-existent routes or forlorn pages, the not-found UI components extend solace. They furnish a lucid and user-embracing missive, intimating users about content eluding their current quest.
-6.	error.js (.jsx, .tsx): Wielding elegance amid turbulence, error UI components temper disruptions by soothingly addressing errors or anomalies within designated routes or pages. They impart sagacious guidance, augmenting user sanguinity.
-7.	global-error.js (.jsx, .tsx): Embracing a panoramic vista, global error UI components orchestrate an overarching approach to navigational mishaps. In the face of critical junctures, these sentinels espouse a uniform stratagem, enveloping the user experience in security.
-8.	route.js (.js, .ts): Pioneering a bridge between client and server, route files actuate API endpoints for data communion. Their subtle machinations facilitate synchronous dialogues, endowing your application with dynamism and live interaction.
-9.	template.js (.jsx, .tsx): Architects of malleability, template files bequeath reusable scaffolds adaptable across sundry pages. Within these crystalline structures, developers maintain cohesion while interspersing components attuned to distinct page requisites.
-10.	default.js (.jsx, .tsx): As conduits for parallel routes, default components stand as vanguards of unobtrusive continuity. In their resolute presence, they encapsulate fallback mechanisms, gracing the user with alternative content should specified routes evade accessibility.
+1. layout.js (.jsx, .tsx): A cornerstone of structural integrity, the layout file envelops multiple pages, furnishing them with uniform styling and structure. It bolsters a seamless visual identity and user experience, augmenting brand consistency and navigational intuition.
+2. page.js (.jsx, .tsx): These beacons of specificity map dedicated routes to user interfaces, orchestrating a symphony of access to distinct content and functionalities. Pages spearhead user interaction, serving as prime conduits for conveying application essence.
+3. global.css: The global.css file the store this style which applied for entire the all projects. 
+4. loading.js (.jsx, .tsx): Viatalizing the user experience during data acquisition, loading UI components extend a soothing cadence. They materialize as content unfurls, granting visual cues that assuage latency-related disquietude.
+5. not-found.js (.jsx, .tsx): Should users tread upon non-existent routes or forlorn pages, the not-found UI components extend solace. They furnish a lucid and user-embracing missive, intimating users about content eluding their current quest.
+6. error.js (.jsx, .tsx): Wielding elegance amid turbulence, error UI components temper disruptions by soothingly addressing errors or anomalies within designated routes or pages. They impart sagacious guidance, augmenting user sanguinity.
+7. global-error.js (.jsx, .tsx): Embracing a panoramic vista, global error UI components orchestrate an overarching approach to navigational mishaps. In the face of critical junctures, these sentinels espouse a uniform stratagem, enveloping the user experience in security.
+8. route.js (.js, .ts): Pioneering a bridge between client and server, route files actuate API endpoints for data communion. Their subtle machinations facilitate synchronous dialogues, endowing your application with dynamism and live interaction.
+9. template.js (.jsx, .tsx): Architects of malleability, template files bequeath reusable scaffolds adaptable across sundry pages. Within these crystalline structures, developers maintain cohesion while interspersing components attuned to distinct page requisites.
+10. default.js (.jsx, .tsx): As conduits for parallel routes, default components stand as vanguards of unobtrusive continuity. In their resolute presence, they encapsulate fallback mechanisms, gracing the user with alternative content should specified routes evade accessibility.
 
 
 
