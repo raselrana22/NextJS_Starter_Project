@@ -2,12 +2,12 @@ This is a [Next.js](https://nextjs.org/) starter project.
 
 ## Getting Started
 
+Welcome to "nextjs-starter-project," your gateway to efficient web development with Next.js. Whether you're a pro or a beginner, this project empowers you with vital tools and configurations for building modern web apps in JavaScript.
+
 ## Learn More
 
-About the Next.js starter project and detailed description of the folder structure used in the project.
+Explore the project's organized folders, essential files, and powerful features like ESLint, PostCSS, and routing components. Customize layouts, handle errors, and dive into dynamic content creation. This starter project provides a solid foundation for crafting captivating web experiences.
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The live link of the project [NextJS-Starter-Project](https://next-js-starter-project-tan.vercel.app/)
